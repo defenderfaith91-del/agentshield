@@ -1,0 +1,3 @@
+[submodule "tests/s"]
+	path = tests/s
+	url = https://github.com/affaan-m/agentshield/
